@@ -1,0 +1,1 @@
+PlaySound("Interface\\AddOns\\WeakAuras\\Media\\fokus.mp3", "Master")
